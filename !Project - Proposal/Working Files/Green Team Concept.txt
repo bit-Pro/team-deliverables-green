@@ -1,0 +1,11 @@
+
+
+Green Team Concept:
+
+Green team has decided to base our initial concept on an interactive and easy to use website that will have details and information at an easy reach for incoming and current immigrants. We would propose to include such things as a chat/discussion section to migrants to interact (with the ability to change languages and translate if possible for ease of understanding), and maybe a video chat too (like skype but between users on the site). 
+
+We would also propose a section or RSS feed containing the latest New Zealand News, and have news from their home countries available if they choose. Important contact information for Crisis emergencies eg: Hospital, doctors, Police, Fire would be placed in an easy to see section. We also might integrate a map (such as Google Maps) to help aid with directions and finding local places.
+
+
+
+
