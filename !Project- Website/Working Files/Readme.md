@@ -1,1 +1,2 @@
-Add website files here. This includes text, drawings, diagrams, pictures, media, anything that you have found that will or might be used on the website.
+Add website files here. This includes text, drawings, diagrams, pictures, media, anything that you have found that will or might be used on the website.  
+Rest of files found : https://github.com/bit-Pro/bit-pro.github.io/tree/Green-drafts/Green
