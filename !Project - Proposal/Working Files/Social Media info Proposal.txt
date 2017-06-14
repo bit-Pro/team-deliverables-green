@@ -1,0 +1,4 @@
+Social Media section of Proposal:
+The social media aspect will include a chat/discussion section for migrants to interact with each other. This will include functionality to change or translate language into Arabic for ease of understanding. The site will also contain an RSS feed which contains current New Zealand News stories with the option to include news from Syria or other home countries of ex-migrants. It is also of importance to make sure important contact information for services such as Hospitals, Medical Clinics and 111 Services. Digital Maps to aid direction to local Dunedin businesses or Emergency locations will also be available to look and interact with.
+The result of this will mean that migrants will not only have easier access to vital information in a language that they have a better understanding of if necessary, but will have an easier way to interact with other migrants and people in similar situations.
+
